@@ -82,10 +82,14 @@ features = [
     "gateway",
     "unstable_discord_api",
 ]
+
 # git = "https://github.com/serenity-rs/serenity.git"
 # rev = "cdf94395d55e9ab379a37fe98652c64fba7f7047"
+
 # path = "../serenity"
+
 git = "https://github.com/ratbot-rs/serenity.git"
+branch = "ratbot"
 
 [dev-dependencies]
 byteorder = "1"
